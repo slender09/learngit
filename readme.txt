@@ -5,3 +5,4 @@ git tracks changes of files.
 creating a branch is quick.
 Creating a new branch is quick and simple.
 testing merge.
+bug manage.
